@@ -8,6 +8,8 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
+        int s = Integer.parseInt("s");
+        System.out.println(s);
 
     }
     public static int longestValidParentheses(String s) {
