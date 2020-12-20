@@ -1,2 +1,2 @@
 # Interview
- interview practiec questions
+ interview practice questions
