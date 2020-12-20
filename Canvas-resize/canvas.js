@@ -29,7 +29,18 @@ c.beginPath();
 c.strokeStyle = 'rgba(3,200,200,1)';
 c.arc(100,300,50,0,0.000001,true);
 c.stroke();
-c.beginPath();
-c.strokeStyle = 'rgba(200,4,200,1)';
-c.arc(300,100,80,0,Math.PI*2,false);
-c.stroke(); //print again
+// c.beginPath();
+// c.strokeStyle = 'rgba(200,4,200,1)';
+// c.arc(300,100,80,0,Math.PI*2,false);
+// c.stroke(); //print again
+
+for(var i =0;i<20;i++){
+    console.log(i);
+    c.beginPath();
+    c.strokeStyle = 'rgba('+i*10+',6,'+10*i+',1)';
+    var x= Math.random()*window.innerWidth;
+    var y = Math.random()*window.innerHeight;
+    c.arc(x,y,10,0,0.000001,true);
+    c.stroke();
+}
+
