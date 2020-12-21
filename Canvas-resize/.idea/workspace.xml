@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ba5a062-be2b-46cd-adf5-4a595e851e35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/animate.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1luOCsWxcN6pXIhalP46w4fPylX" />
@@ -46,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608443384403</updated>
-      <workItem from="1608443385914" duration="4746000" />
+      <workItem from="1608443385914" duration="8756000" />
     </task>
     <task id="LOCAL-00001" summary="completed circle and square, now work on for loop">
       <created>1608446339957</created>
@@ -55,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608446339958</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done drawing, now work on animation">
+      <created>1608448489459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608448489459</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed circle and square, now work on for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed circle and square, now work on for loop" />
+    <MESSAGE value="done drawing, now work on animation" />
+    <option name="LAST_COMMIT_MESSAGE" value="done drawing, now work on animation" />
   </component>
 </project>
