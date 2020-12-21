@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608443384403</updated>
-      <workItem from="1608443385914" duration="8756000" />
+      <workItem from="1608443385914" duration="11864000" />
     </task>
     <task id="LOCAL-00001" summary="completed circle and square, now work on for loop">
       <created>1608446339957</created>
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608448489459</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="animation working, circle moving inside the screen">
+      <created>1608513559470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608513559470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +90,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed circle and square, now work on for loop" />
     <MESSAGE value="done drawing, now work on animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="done drawing, now work on animation" />
+    <MESSAGE value="animation working, circle moving inside the screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="animation working, circle moving inside the screen" />
   </component>
 </project>
